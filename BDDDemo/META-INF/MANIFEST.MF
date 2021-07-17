@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: BDDDemo
+Bundle-SymbolicName: BDDDemo
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: BDDDemo
+Export-Package: com.cg.project,
+ com.cg.project.factory,
+ com.cg.project.stepdefs,
+ com.cg.project.test
